@@ -20,3 +20,7 @@ It mimics some basic UI and functionality, including the **startup screen**, a *
 1. **Clone or Download the Repository**
    ```bash
    git clone https://github.com/AftabAhmadHalimi/Iphone-7-plus-Simulation-using-html-css-and-js.git
+
+2. **How to run in the pc**
+   ```bash
+   Run in the browser using the localserver or liverserver vscode extension
