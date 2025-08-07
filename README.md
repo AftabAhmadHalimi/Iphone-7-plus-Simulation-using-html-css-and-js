@@ -21,6 +21,30 @@ It mimics some basic UI and functionality, including the **startup screen**, a *
    ```bash
    git clone https://github.com/AftabAhmadHalimi/Iphone-7-plus-Simulation-using-html-css-and-js.git
 
-2. **How to run in the pc**
-   ```bash
-   Run in the browser using the localserver or liverserver vscode extension
+
+2. **Run on Your PC**
+You can open the project in your browser using:
+
+✅ Live Server extension in VS Code (recommended)
+✅ Or manually open the index.html file in your browser
+💡 For the best experience (especially with audio), use the Live Server extension.
+
+
+3. **Project structure**
+```bash
+iphone-7-plus-simulator/
+├── index.html
+├── style.css
+├── script.js
+└── sounds/
+    ├── homebtn.mp3
+    ├── click.mp3
+
+4. License
+This project is created for fun and educational purposes.
+Feel free to use, modify, or share — but not for commercial use or selling as a real iPhone simulator. 😄
+
+
+⭐ If you like this project, don’t forget to star the repository!
+
+
