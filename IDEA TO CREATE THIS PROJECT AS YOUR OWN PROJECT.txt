@@ -1,0 +1,2 @@
+1. IF YOU PRESS THE POWER BUTTON IT SHOULD START THE IPHONE WITH THE STARTING STRATEGY
+2. Add a remove button to the password input feild
