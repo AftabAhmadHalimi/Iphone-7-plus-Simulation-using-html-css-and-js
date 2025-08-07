@@ -19,4 +19,4 @@ It mimics some basic UI and functionality, including the **startup screen**, a *
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/yourusername/iphone7plus-simulator.git
+   git clone https://github.com/AftabAhmadHalimi/Iphone-7-plus-Simulation-using-html-css-and-js.git
